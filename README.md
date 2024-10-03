@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=white&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Greetings+All!;+I'm+Shraddha+Sahu;" />
+<!--     <img src="https://readme-typing-svg.herokuapp.com/?color=white&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=Greetings+All!;+I'm+Shraddha+Sahu;" /> -->
 </h1>
 
 <!-- <h1 align="center">Greatings All, I'm Shraddha Sahu</h1> -->
