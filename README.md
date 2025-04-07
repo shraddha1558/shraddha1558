@@ -10,7 +10,7 @@
 
 <h2>🏆 About Me</h2>
 <ul>
-  <li>🎓 <b>Undergraduate at IIIT Bhagalpur</b> with a strong interest in Artificial Intelligence, Machine Learning, and Wireless Networks.</li>
+  <li>🎓 <b>Undergraduate at IIIT Bhagalpur</b> with interest in Machine Learning, Develpoment & Coding.</li>
   <li>🏅 <b>Finalist at Smart India Hackathon (SIH) 2024</b></li>
   <li>🏅 <b>Best Paper Awardee</b> </li>
   <li>🏅  Recipient of the prestigious <b>IASc-INSA-IAS Research Fellowship</b>. FAST-SF 2025</li>
