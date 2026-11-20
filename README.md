@@ -2,7 +2,7 @@
 <h1 align="center">Shraddha Sahu</h1>
 
 <h3 align="center">
-  Computer Science Undergraduate | AI & Machine Learning Research
+  Computer Science Honours | AI & Machine Learning Research
 </h3>
 
 <p align="center">
